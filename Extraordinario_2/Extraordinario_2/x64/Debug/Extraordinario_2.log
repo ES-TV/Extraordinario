@@ -1,0 +1,3 @@
+﻿  Extraordinario_2.cpp
+C:\Users\Esteban\Documents\Amerike\Semestre 1\Programacion\Extraordinario\Extraordinario_2\Extraordinario_2\Extraordinario_2.cpp(8,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Extraordinario_2.vcxproj -> C:\Users\Esteban\Documents\Amerike\Semestre 1\Programacion\Extraordinario\Extraordinario_2\x64\Debug\Extraordinario_2.exe
