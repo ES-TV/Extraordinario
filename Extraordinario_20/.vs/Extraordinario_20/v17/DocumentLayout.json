@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EstebanChavez-Auxili\\Documents\\Personales\\Uni\\Matematicas\\Extraordinario\\Extraordinario_20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D63E47AA-2146-4081-A908-58A84FD8CAD8}|Extraordinario_20\\Extraordinario_20.vcxproj|C:\\Users\\EstebanChavez-Auxili\\Documents\\Personales\\Uni\\Matematicas\\Extraordinario\\Extraordinario_20\\Extraordinario_20\\Extraordinario_20.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D63E47AA-2146-4081-A908-58A84FD8CAD8}|Extraordinario_20\\Extraordinario_20.vcxproj|solutionrelative:Extraordinario_20\\Extraordinario_20.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extraordinario_20.cpp",
+              "DocumentMoniker": "C:\\Users\\EstebanChavez-Auxili\\Documents\\Personales\\Uni\\Matematicas\\Extraordinario\\Extraordinario_20\\Extraordinario_20\\Extraordinario_20.cpp",
+              "RelativeDocumentMoniker": "Extraordinario_20\\Extraordinario_20.cpp",
+              "ToolTip": "C:\\Users\\EstebanChavez-Auxili\\Documents\\Personales\\Uni\\Matematicas\\Extraordinario\\Extraordinario_20\\Extraordinario_20\\Extraordinario_20.cpp",
+              "RelativeToolTip": "Extraordinario_20\\Extraordinario_20.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T14:46:45.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
