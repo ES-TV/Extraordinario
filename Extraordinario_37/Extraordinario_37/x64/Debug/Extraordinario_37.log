@@ -1,0 +1,3 @@
+﻿  Extraordinario_37.cpp
+C:\Users\Esteban\Documents\Amerike\Semestre 1\Programacion\Extraordinario\Extraordinario_37\Extraordinario_37\Extraordinario_37.cpp(14,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Extraordinario_37.vcxproj -> C:\Users\Esteban\Documents\Amerike\Semestre 1\Programacion\Extraordinario\Extraordinario_37\x64\Debug\Extraordinario_37.exe
