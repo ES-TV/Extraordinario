@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Esteban\\Documents\\Amerike\\Semestre 1\\Programacion\\Extraordinario\\Extraordinario_47\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8ED3B41-4192-4AC1-9594-17591A6BF883}|Extraordinario_47\\Extraordinario_47.vcxproj|C:\\Users\\Esteban\\Documents\\Amerike\\Semestre 1\\Programacion\\Extraordinario\\Extraordinario_47\\Extraordinario_47\\Extraordinario_47.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8ED3B41-4192-4AC1-9594-17591A6BF883}|Extraordinario_47\\Extraordinario_47.vcxproj|solutionrelative:Extraordinario_47\\Extraordinario_47.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extraordinario_47.cpp",
+              "DocumentMoniker": "C:\\Users\\Esteban\\Documents\\Amerike\\Semestre 1\\Programacion\\Extraordinario\\Extraordinario_47\\Extraordinario_47\\Extraordinario_47.cpp",
+              "RelativeDocumentMoniker": "Extraordinario_47\\Extraordinario_47.cpp",
+              "ToolTip": "C:\\Users\\Esteban\\Documents\\Amerike\\Semestre 1\\Programacion\\Extraordinario\\Extraordinario_47\\Extraordinario_47\\Extraordinario_47.cpp",
+              "RelativeToolTip": "Extraordinario_47\\Extraordinario_47.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-20T23:10:07.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
