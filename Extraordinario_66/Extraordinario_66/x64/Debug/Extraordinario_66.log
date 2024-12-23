@@ -1,0 +1,4 @@
+﻿  Extraordinario_66.cpp
+C:\Users\Esteban\Documents\Amerike\Semestre 1\Programacion\Extraordinario\Extraordinario_66\Extraordinario_66\Extraordinario_66.cpp(14,17): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Esteban\Documents\Amerike\Semestre 1\Programacion\Extraordinario\Extraordinario_66\Extraordinario_66\Extraordinario_66.cpp(23,13): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Extraordinario_66.vcxproj -> C:\Users\Esteban\Documents\Amerike\Semestre 1\Programacion\Extraordinario\Extraordinario_66\x64\Debug\Extraordinario_66.exe
